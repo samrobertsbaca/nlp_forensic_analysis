@@ -12,14 +12,13 @@ A project to provide detailed forensic analysis on news article and email data u
 * Predictive Modeling
 * Latent Dirichlet Allocation
 * Named Entity Recognition
-* Graph Network Analysis
+* Network Graph Analysis
 * Data Visualization
 
 ### Technologies
 * Python
 * Pandas, jupyter
 * sklearn, nltk, spacy, gensim
-* wordcloud
 * JSON
 * Plotly, Seaborn
 
